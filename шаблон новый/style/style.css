@@ -1,0 +1,54 @@
+.txt {
+  font-family: "Times New Roman", Times, serif;
+  padding-left: 400px;
+}
+h3 {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 24px;
+}
+.table {
+  background-color: burlywood;
+}
+.text-indent {
+  text-indent: 20px;
+}
+.video {
+  padding-left: 200px;
+}
+.tdcolor {
+  background-color: rgb(167, 116, 116);
+}
+.page {
+  display: inline-block; /* Строчно-блочный элемент */
+  background: #da5cd3; /* Серый цвет фона */
+  color: #fff; /* Белый цвет текста */
+  padding: 1rem 1.5rem; /* Поля вокруг текста */
+  text-decoration: none; /* Убираем подчёркивание */
+  border-radius: 3px; /* Скругляем уголки */
+  tab-size: 10px;
+}
+
+.h3 {
+  display: inline-block;
+  padding: 0.5rem 1.5rem;
+  text-decoration: none;
+}
+.page1 {
+  display: inline-block; /* Строчно-блочный элемент */
+  background: #417dff; /* Серый цвет фона */
+  color: #fff; /* Белый цвет текста */
+  padding: 1rem 1.5rem; /* Поля вокруг текста */
+  text-decoration: none; /* Убираем подчёркивание */
+  border-radius: 3px; /* Скругляем уголки */
+  tab-size: 10px;
+}
+.tdinfo {
+}
+.tbl1 {
+  border: 1;
+  background-color: #e6e6fa;
+  padding: 10;
+  width: 100%;
+  border-radius: 5px;
+  
+}
